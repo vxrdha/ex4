@@ -250,11 +250,11 @@ pondymarina.html
 ```
 
 ## OUTPUT
-![alt text](../pondicherry.png)
-![alt text](<../oosudu lake.png>)
-![alt text](<../serenity beach.png>)
-![alt text](<../white town.png>)
-![alt text](<../pondy marina.png>)
+![alt text](https://github.com/vxrdha/ex4/blob/main/oosudu%20lake.png)
+![alt text](<https://github.com/vxrdha/ex4/blob/main/white%20town.png>)
+![alt text](<https://github.com/vxrdha/ex4/blob/main/serenity%20beach.png>)
+![alt text](<https://github.com/vxrdha/ex4/blob/main/pondy%20marina.png>)
+![alt text](<https://github.com/vxrdha/ex4/blob/main/pondicherry.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
